@@ -58,12 +58,10 @@ const Landing = ({ setSelectedPage }) => {
           </p>
 
           <p className="mt-10 mb-7 text-sm text-center md:text-start">
-            I'm a Fresh Software Engineering graduate with a strong foundation
-            in various programming languages and databases. Completed an
-            internship focusing on Market Surveillance and Python Automation.
-            Seeking opportunities to apply my technical skills and contribute to
-            the software industry, with a keen interest in Software Development
-            and Web Development.
+            I'm a motivated software engineer with a strong desire for learning
+            and problem-solving. Ready to apply my technical skills to exciting
+            projects while continuously expanding my knowledge. Enthusiastic
+            about software development, web development, and automation.
           </p>
         </motion.div>
 
