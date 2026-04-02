@@ -25,7 +25,7 @@ const MySkills = () => {
           </p>
           <LineGradient width="w-1/3" />
           <p className="mt-10 mb-7">
-            Explore my journey, qualifications, and skills—a glimpse into my
+            Explore my journey, qualifications, and skills.A glimpse into my
             professional growth and capabilities.
           </p>
         </motion.div>
@@ -107,7 +107,7 @@ const MySkills = () => {
             </li>
             <li>
               Contribute to IFS FSM solutions, including workflow optimization,
-              automated scheduling, and real-time system improvements.
+              automated scheduling, and real time system improvements.
             </li>
           </ul>
 
@@ -157,8 +157,8 @@ const MySkills = () => {
             <li className="font-playfair font-semibold">
               Open Day Exhibition under the theme of 'Smart Sri Lanka'
               <br />
-              Won 1st place for the project we implemented, The 'Choon Paan
-              Application,' which serves online bakery sellers User Interface
+              Won 1st place for the project we implemented the 'Choon Paan
+              Application' which serves online bakery sellers User Interface
               using ReactJs.
             </li>
             <li className="font-playfair font-semibold">

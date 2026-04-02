@@ -61,7 +61,7 @@ const Landing = ({ setSelectedPage }) => {
             I'm a motivated software engineer with a strong desire for learning
             and problem-solving. Ready to apply my technical skills to exciting
             projects while continuously expanding my knowledge. Enthusiastic
-            about software development, web development, and automation.
+            about software development, web development and automation.
           </p>
         </motion.div>
 

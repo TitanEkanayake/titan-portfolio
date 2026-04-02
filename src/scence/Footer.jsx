@@ -10,7 +10,7 @@ const Footer = () => {
             TITAN EKANAYAKE
           </p>
           <p className="font-playfair text-md text-yellow">
-            ©2023 EKANAYAKE. All Rights Reserved.
+            ©2026 EKANAYAKE. All Rights Reserved.
           </p>
         </div>
       </div>
