@@ -59,7 +59,7 @@ const Landing = ({ setSelectedPage }) => {
 
           <p className="mt-10 mb-7 text-sm text-center md:text-start">
             I'm a motivated software engineer with a strong desire for learning
-            and problem-solving. Ready to apply my technical skills to exciting
+            and problem solving. Ready to apply my technical skills to exciting
             projects while continuously expanding my knowledge. Enthusiastic
             about software development, web development and automation.
           </p>
